@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce3826d3d995d9f0",
+        "id": "928ddad46cb0a858",
         "type": "tabs",
         "children": [
           {
-            "id": "13e269802f87af7e",
+            "id": "bc4040f744ef811a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf"
+                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf",
+                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf",
+                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf"
+                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf"
               }
             }
           }
@@ -146,17 +146,18 @@
   },
   "active": "46f1ffe4a5a935ba",
   "lastOpenFiles": [
-    "ლიტხელი/F-PHIL105149 2023-24 Spring.pdf",
+    "მექანიკა/materials/150582547333879.pdf",
+    "მექანიკა/materials/ფიზიკა I კლასიკური მექანიკა.pdf",
+    "მათანალიზი 1/materials/Calculus, A Complete Course, 7th ed.pdf",
+    "მათანალიზი 1/materials/rudin.pdf",
+    "მათანალიზი 1/materials/spivak- Calculus on Manifolds-1.pdf",
+    "მათანალიზი 1/materials/მათემატიკური ანალიზი I.pdf",
+    "ეკონომიკის საფუძვლები/materials/F-ECO104015 2023-24 Fall.pdf",
+    "მსოფლიო ისტორია და საქართველო/materials/HIST103032 2023-24 Spring.pdf",
+    "ქართული ენა და ქართველები/materials",
+    "მსოფლიო ისტორია და საქართველო/materials",
+    "ქართული ენა და ქართველები/materials/F-PHIL102021 2023-24 Spring.pdf",
     "ცხრილი.md",
-    "მათანალიზი 1/მათემატიკური ანალიზი I.pdf",
-    "მექანიკა/ფიზიკა I კლასიკური მექანიკა.pdf",
-    "მსოფლიო ისტორია და საქართველო/HIST103032 2023-24 Spring.pdf",
-    "ეკონომიკის საფუძვლები/F-ECO104015 2023-24 Fall.pdf",
-    "ფიზიკა I კლასიკური მექანიკა.pdf",
-    "F-ECO104015 2023-24 Fall.pdf",
-    "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf",
-    "HIST103032 2023-24 Spring.pdf",
-    "მათემატიკური ანალიზი I.pdf",
     "ქართული ენა.md",
     "Welcome.md"
   ]
