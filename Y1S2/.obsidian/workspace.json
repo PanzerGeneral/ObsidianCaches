@@ -11,11 +11,9 @@
             "id": "13e269802f87af7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ცხრილი.md",
-                "mode": "source",
-                "source": false
+                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ცხრილი.md",
+                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ცხრილი.md",
+                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ცხრილი.md"
+                "file": "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf"
               }
             }
           }
@@ -148,14 +146,18 @@
   },
   "active": "46f1ffe4a5a935ba",
   "lastOpenFiles": [
-    "ქართული ენა.md",
+    "ლიტხელი/F-PHIL105149 2023-24 Spring.pdf",
     "ცხრილი.md",
-    "მსოფლიო ისტორია და საქართველო",
-    "მექანიკა",
-    "ქართული ენა და ქართველები",
-    "მათანალიზი 1",
-    "Welcome.md",
-    "ეკონომიკის საფუძვლები",
-    "ლიტხელი"
+    "მათანალიზი 1/მათემატიკური ანალიზი I.pdf",
+    "მექანიკა/ფიზიკა I კლასიკური მექანიკა.pdf",
+    "მსოფლიო ისტორია და საქართველო/HIST103032 2023-24 Spring.pdf",
+    "ეკონომიკის საფუძვლები/F-ECO104015 2023-24 Fall.pdf",
+    "ფიზიკა I კლასიკური მექანიკა.pdf",
+    "F-ECO104015 2023-24 Fall.pdf",
+    "ქართული ენა და ქართველები/F-PHIL102021 2023-24 Spring.pdf",
+    "HIST103032 2023-24 Spring.pdf",
+    "მათემატიკური ანალიზი I.pdf",
+    "ქართული ენა.md",
+    "Welcome.md"
   ]
 }
