@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "928ddad46cb0a858",
+        "id": "f10d6b22e5f766d9",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4040f744ef811a",
+            "id": "27fb484ab779243c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,6 +144,8 @@
   },
   "active": "46f1ffe4a5a935ba",
   "lastOpenFiles": [
+    "მათანალიზი 1/materials/მათემატიკური ანალიზის კურსი. 2.pdf",
+    "მათანალიზი 1/materials/ათემატიკური ანალიზის კურსი, 1.pdf",
     "მექანიკა/materials/150582547333879.pdf",
     "მექანიკა/materials/ფიზიკა I კლასიკური მექანიკა.pdf",
     "მათანალიზი 1/materials/Calculus, A Complete Course, 7th ed.pdf",
@@ -155,8 +155,6 @@
     "ეკონომიკის საფუძვლები/materials/F-ECO104015 2023-24 Fall.pdf",
     "მსოფლიო ისტორია და საქართველო/materials/HIST103032 2023-24 Spring.pdf",
     "ქართული ენა და ქართველები/materials",
-    "მსოფლიო ისტორია და საქართველო/materials",
-    "ქართული ენა და ქართველები/materials/F-PHIL102021 2023-24 Spring.pdf",
     "ცხრილი.md",
     "ქართული ენა.md",
     "Welcome.md"
