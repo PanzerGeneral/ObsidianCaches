@@ -11,8 +11,12 @@
             "id": "27fb484ab779243c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ლიტხელი/ლექცია 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf",
+                "file": "ლიტხელი/ლექცია 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf",
+                "file": "ლიტხელი/ლექცია 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf"
+                "file": "ლიტხელი/ლექცია 1.md"
               }
             }
           }
@@ -142,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46f1ffe4a5a935ba",
+  "active": "27fb484ab779243c",
   "lastOpenFiles": [
+    "ცხრილი.md",
+    "ლიტხელი/ლექცია 1.md",
     "მათანალიზი 1/materials/მათემატიკური ანალიზის კურსი. 2.pdf",
+    "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf",
     "მათანალიზი 1/materials/ათემატიკური ანალიზის კურსი, 1.pdf",
     "მექანიკა/materials/150582547333879.pdf",
     "მექანიკა/materials/ფიზიკა I კლასიკური მექანიკა.pdf",
@@ -153,9 +160,6 @@
     "მათანალიზი 1/materials/spivak- Calculus on Manifolds-1.pdf",
     "მათანალიზი 1/materials/მათემატიკური ანალიზი I.pdf",
     "ეკონომიკის საფუძვლები/materials/F-ECO104015 2023-24 Fall.pdf",
-    "მსოფლიო ისტორია და საქართველო/materials/HIST103032 2023-24 Spring.pdf",
-    "ქართული ენა და ქართველები/materials",
-    "ცხრილი.md",
     "ქართული ენა.md",
     "Welcome.md"
   ]
