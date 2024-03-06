@@ -11,9 +11,11 @@
             "id": "27fb484ab779243c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "მექანიკა/materials/იროდოვი.pdf"
+                "file": "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "მექანიკა/materials/იროდოვი.pdf",
+                "file": "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "მექანიკა/materials/იროდოვი.pdf",
+                "file": "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "მექანიკა/materials/იროდოვი.pdf"
+                "file": "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md"
               }
             }
           }
@@ -146,8 +148,8 @@
   },
   "active": "27fb484ab779243c",
   "lastOpenFiles": [
-    "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md",
     "მექანიკა/materials/იროდოვი.pdf",
+    "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md",
     "ლიტხელი/ლექცია 1.md",
     "მათანალიზი 1/materials/Calculus, A Complete Course, 7th ed.pdf",
     "ცხრილი.md",
