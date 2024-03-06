@@ -11,11 +11,9 @@
             "id": "27fb484ab779243c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ლიტხელი/ლექცია 1.md",
-                "mode": "source",
-                "source": false
+                "file": "მექანიკა/materials/იროდოვი.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ლიტხელი/ლექცია 1.md",
+                "file": "მექანიკა/materials/იროდოვი.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ლიტხელი/ლექცია 1.md",
+                "file": "მექანიკა/materials/იროდოვი.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ლიტხელი/ლექცია 1.md"
+                "file": "მექანიკა/materials/იროდოვი.pdf"
               }
             }
           }
@@ -148,9 +146,11 @@
   },
   "active": "27fb484ab779243c",
   "lastOpenFiles": [
+    "მექანიკა/ლექცია 1 (მყისიერი აჩქარება და სიჩქარე).md",
+    "მექანიკა/materials/იროდოვი.pdf",
+    "ლიტხელი/ლექცია 1.md",
     "მათანალიზი 1/materials/Calculus, A Complete Course, 7th ed.pdf",
     "ცხრილი.md",
-    "ლიტხელი/ლექცია 1.md",
     "მათანალიზი 1/materials/მათემატიკური ანალიზის კურსი. 2.pdf",
     "ლიტხელი/materials/F-PHIL105149 2023-24 Spring.pdf",
     "მათანალიზი 1/materials/ათემატიკური ანალიზის კურსი, 1.pdf",
@@ -159,7 +159,6 @@
     "მათანალიზი 1/materials/rudin.pdf",
     "მათანალიზი 1/materials/spivak- Calculus on Manifolds-1.pdf",
     "მათანალიზი 1/materials/მათემატიკური ანალიზი I.pdf",
-    "ეკონომიკის საფუძვლები/materials/F-ECO104015 2023-24 Fall.pdf",
     "ქართული ენა.md",
     "Welcome.md"
   ]
